@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arkar-myo/portfolio-project/static/css/main.fa7d76ae.css",
+    "main.js": "/Arkar-myo/portfolio-project/static/js/main.e492ef0e.js",
+    "static/js/787.512dd3f2.chunk.js": "/Arkar-myo/portfolio-project/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/Arkar-myo/portfolio-project/index.html",
+    "main.fa7d76ae.css.map": "/Arkar-myo/portfolio-project/static/css/main.fa7d76ae.css.map",
+    "main.e492ef0e.js.map": "/Arkar-myo/portfolio-project/static/js/main.e492ef0e.js.map",
+    "787.512dd3f2.chunk.js.map": "/Arkar-myo/portfolio-project/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7d76ae.css",
+    "static/js/main.e492ef0e.js"
+  ]
+}
