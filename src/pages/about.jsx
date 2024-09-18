@@ -62,7 +62,6 @@ const About = () => {
 									<h2>Education</h2>
 									<p>Bachelor’s Degree in Electronic and Communication Engineering</p>
 									<p>Myanmar Institute of Information Technology (MIIT)</p>
-									<p>Graduated: 2023</p>
 								</div>
 
 								<div class="experience">

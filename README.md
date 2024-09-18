@@ -6,9 +6,9 @@ Reactfolio is a modern and customizable personal portfolio web template built us
 <img src="https://i.imgur.com/ZWPO61A.jpeg" alt="Reactfolio" />
 </center>
 
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
+Live demo here: <a href="https://portfolio-project-livid-six.vercel.app/about" target="_blank">My Portfolio</a>
 <br/>
-Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank">tharindu.dev/portfolio/reactfolio/</a>
+<!-- Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank">tharindu.dev/portfolio/reactfolio/</a> -->
 
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
@@ -26,7 +26,7 @@ Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank
     -   Home
     -   About
     -   Projects
-    -   Articles
+    <!-- -   Articles -->
     -   Contact
 -   📱 Fully Responsive
 -   🛠 Easy configurations
@@ -63,7 +63,7 @@ Directory: `/src/data/`
 
     From this you can change the content of each page of the web application.
 
--   `articles.js`
+<!-- -   `articles.js`
 
     From this you can add your articles to the web application.
 
@@ -112,7 +112,7 @@ Directory: `/src/data/`
 
             ```js
             const myArticles = [article_1, article_2, article_3];
-            ```
+            ``` -->
 
 -   `seo.js`
 
